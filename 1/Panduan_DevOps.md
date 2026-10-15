@@ -30,7 +30,7 @@ Ganti `[ ]` menjadi `[x]` setiap kali kamu selesai mempraktikkan materi dan mela
 - [x] **Day 01:** Perumusan Rencana Belajar DevOps & Blueprint Karier (`learning-plan.md`)
 - [x] **Day 02:** Arsitektur Linux, Siklus Hidup Proses, dan Pengenalan `systemd` (PID 1)
 - [x] **Day 03:** Praktik Perintah Dasar & Menengah Linux (Navigasi, Filtering `grep`/`awk`/`sed`)
-- [ ] **Day 04:** Manajemen Proses & Service (`ps`, `top`, `systemctl start/stop/status`)
+- [x] **Day 04:** Manajemen Proses & Service (`ps`, `top`, `systemctl start/stop/status`)
 - [ ] **Day 05:** Troubleshooting Kritis: Analisis Beban CPU, Memori (RAM), Disk I/O, dan System Logs
 - [ ] **Day 06:** Operasi Berkas Teks & Manipulasi Konfigurasi di Linux (Vim, Nano, Stream Editor)
 - [ ] **Day 07:** Hierarki File System Linux (`/etc`, `/var`, `/proc`, `/dev`) & Skenario Kasus Nyata
