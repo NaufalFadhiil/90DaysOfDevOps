@@ -32,7 +32,7 @@ Ganti `[ ]` menjadi `[x]` setiap kali kamu selesai mempraktikkan materi dan mela
 - [x] **Day 03:** Praktik Perintah Dasar & Menengah Linux (Navigasi, Filtering `grep`/`awk`/`sed`)
 - [x] **Day 04:** Manajemen Proses & Service (`ps`, `top`, `systemctl start/stop/status`)
 - [x] **Day 05:** Troubleshooting Kritis: Analisis Beban CPU, Memori (RAM), Disk I/O, dan System Logs
-- [ ] **Day 06:** Operasi Berkas Teks & Manipulasi Konfigurasi di Linux (Vim, Nano, Stream Editor)
+- [x] **Day 06:** Operasi Berkas Teks & Manipulasi Konfigurasi di Linux (Vim, Nano, Stream Editor)
 - [ ] **Day 07:** Hierarki File System Linux (`/etc`, `/var`, `/proc`, `/dev`) & Skenario Kasus Nyata
 - [ ] **Day 08:** Cloud Server Setup: Instalasi Nginx, Web Server Hosting, dan Pengujian Port
 - [ ] **Day 09:** Manajemen User, Group, dan Hak Akses `sudo` (User & Group Administration)

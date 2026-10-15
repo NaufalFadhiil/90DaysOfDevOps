@@ -1,0 +1,4 @@
+Line 1: Inisialisasi konfigurasi server produksi.
+Line 2: Menambahkan parameter port reverse proxy Nginx.
+Line 3: Mengaktifkan mode TLS/SSL Certificate Let's Encrypt.
+Line 4: Catatan otomatis dari pipeline via command tee.
