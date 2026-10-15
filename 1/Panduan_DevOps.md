@@ -33,7 +33,7 @@ Ganti `[ ]` menjadi `[x]` setiap kali kamu selesai mempraktikkan materi dan mela
 - [x] **Day 04:** Manajemen Proses & Service (`ps`, `top`, `systemctl start/stop/status`)
 - [x] **Day 05:** Troubleshooting Kritis: Analisis Beban CPU, Memori (RAM), Disk I/O, dan System Logs
 - [x] **Day 06:** Operasi Berkas Teks & Manipulasi Konfigurasi di Linux (Vim, Nano, Stream Editor)
-- [ ] **Day 07:** Hierarki File System Linux (`/etc`, `/var`, `/proc`, `/dev`) & Skenario Kasus Nyata
+- [x] **Day 07:** Hierarki File System Linux (`/etc`, `/var`, `/proc`, `/dev`) & Skenario Kasus Nyata
 - [ ] **Day 08:** Cloud Server Setup: Instalasi Nginx, Web Server Hosting, dan Pengujian Port
 - [ ] **Day 09:** Manajemen User, Group, dan Hak Akses `sudo` (User & Group Administration)
 - [ ] **Day 10:** Keamanan Berkas: Izin File Linux (Permissions `chmod`, Octal vs Symbolic)
