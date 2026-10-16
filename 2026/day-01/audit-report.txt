@@ -1,0 +1,33 @@
+==================================================
+        DEVOPS LINUX BASELINE SYSTEM AUDIT        
+==================================================
+Timestamp    : 2026-10-16 10:01:48 WIB
+Hostname     : debian
+Current User : noop
+OS / Distro  : Debian GNU/Linux 13 (trixie)
+Kernel       : 6.12.107+deb13-amd64
+Uptime       : up 44 minutes
+--------------------------------------------------
+[*] CPU Information:
+   CPU(s):                                  16
+   Model name:                              12th Gen Intel(R) Core(TM) i5-12500H
+   Thread(s) per core:                      2
+   Socket(s):                               1
+   NUMA node(s):                            1
+   NUMA node0 CPU(s):                       0-15
+--------------------------------------------------
+[*] Memory (RAM) Usage:
+                  total        used        free      shared  buff/cache   available
+   Mem:            23Gi       7.0Gi        13Gi       1.3Gi       4.6Gi        16Gi
+--------------------------------------------------
+[*] Root Storage Usage:
+   Filesystem      Size  Used Avail Use% Mounted on
+   /dev/nvme0n1p5   40G   19G   20G  50% /
+--------------------------------------------------
+[*] Network Interfaces & IP:
+   lo (UNKNOWN) : 127.0.0.1/8
+   eno1 (DOWN) : 
+   wlp4s0 (UP) : 192.168.1.14/24
+   docker0 (DOWN) : 172.17.0.1/16
+==================================================
+[+] Audit completed successfully.
