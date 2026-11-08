@@ -34,11 +34,11 @@ Ganti `[ ]` menjadi `[x]` setiap kali kamu selesai mempraktikkan materi dan mela
 - [x] **Day 05:** Troubleshooting Kritis: Analisis Beban CPU, Memori (RAM), Disk I/O, dan System Logs
 - [x] **Day 06:** Operasi Berkas Teks & Manipulasi Konfigurasi di Linux (Vim, Nano, Stream Editor)
 - [x] **Day 07:** Hierarki File System Linux (`/etc`, `/var`, `/proc`, `/dev`) & Skenario Kasus Nyata
-- [ ] **Day 08:** Cloud Server Setup: Instalasi Nginx, Web Server Hosting, dan Pengujian Port
-- [ ] **Day 09:** Manajemen User, Group, dan Hak Akses `sudo` (User & Group Administration)
-- [ ] **Day 10:** Keamanan Berkas: Izin File Linux (Permissions `chmod`, Octal vs Symbolic)
-- [ ] **Day 11:** Kepemilikan Berkas: Manajemen Owner & Group (`chown`, `chgrp`)
-- [ ] **Day 12:** Hari Review, Evaluasi, dan Rangkuman Materi Linux Hari 01–11
+- [x] **Day 08:** Cloud Server Setup: Instalasi Nginx, Web Server Hosting, dan Pengujian Port
+- [x] **Day 09:** Manajemen User, Group, dan Hak Akses `sudo` (User & Group Administration)
+- [x] **Day 10:** Keamanan Berkas: Izin File Linux (Permissions `chmod`, Octal vs Symbolic)
+- [x] **Day 11:** Kepemilikan Berkas: Manajemen Owner & Group (`chown`, `chgrp`)
+- [x] **Day 12:** Hari Review, Evaluasi, dan Rangkuman Materi Linux Hari 01–11
 - [ ] **Day 13:** Linux Volume Management (LVM): Pembuatan Partition, Physical Volume, Volume Group & Resize
 
 #### Modul 1.2: Jaringan Komputer untuk DevOps (Day 14 - 15)
