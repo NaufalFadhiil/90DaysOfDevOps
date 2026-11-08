@@ -1,0 +1,4 @@
+DevOps Engineering Pillars:
+1. Infrastructure as Code
+2. CI/CD Automation
+3. Observability & SRE
