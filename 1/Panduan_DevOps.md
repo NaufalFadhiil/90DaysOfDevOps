@@ -39,7 +39,7 @@ Ganti `[ ]` menjadi `[x]` setiap kali kamu selesai mempraktikkan materi dan mela
 - [x] **Day 10:** Keamanan Berkas: Izin File Linux (Permissions `chmod`, Octal vs Symbolic)
 - [x] **Day 11:** Kepemilikan Berkas: Manajemen Owner & Group (`chown`, `chgrp`)
 - [x] **Day 12:** Hari Review, Evaluasi, dan Rangkuman Materi Linux Hari 01–11
-- [ ] **Day 13:** Linux Volume Management (LVM): Pembuatan Partition, Physical Volume, Volume Group & Resize
+- [x] **Day 13:** Linux Volume Management (LVM): Pembuatan Partition, Physical Volume, Volume Group & Resize
 
 #### Modul 1.2: Jaringan Komputer untuk DevOps (Day 14 - 15)
 - [ ] **Day 14:** Fondasi Jaringan: Model OSI, Protokol TCP/UDP, Diagnosa CLI (`netstat`, `ss`, `curl`, `ping`)
